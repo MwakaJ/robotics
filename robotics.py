@@ -1,4 +1,3 @@
-08.15 15:19
 import time
 from machine import Pin
 
